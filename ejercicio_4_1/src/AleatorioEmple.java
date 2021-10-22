@@ -40,7 +40,6 @@ public class AleatorioEmple {
 			} 
 			file.close(); 
 			System.out.println(" ------------------------------------------");
-			System.out.println(" ------------------------------------------");
 		} else 
 			System.out.println(" ---------FICHERO VACÍO --------------------");
 	}// fin verporconsola
